@@ -1,4 +1,4 @@
-# Headline_
+# Headline_forestreturns
 
 Headline is a [Ghost](https://github.com/TryGhost/Ghost) theme built from the ground up for local news.
 Headline_forestreturns is a customized version of Headline built for The Forest Returns blog.
